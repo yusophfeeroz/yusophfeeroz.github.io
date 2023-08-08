@@ -34,6 +34,6 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
-		<img src='/assets/feeroz-yusoph.JPG' width='200' height='200' align='left' />
+		<img src='/assets/feeroz-yusoph.jpg' width='200' height='200' align='left' />
 	</div>
 </div>
