@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Paul K. Yu
-email: paul_k_yu[at]dlsu.edu.ph
+title: Feeroz R. Yusoph
+email: feeroz_r_yusoph[at]dlsu.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
   This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme. Some icons were loaded from Font Awesome and Academicons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yusophfeeroz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-facebook_username: paul.yu.7161
-github_username: yupaulk
-linkedin_username: paul-y-891890b
-scholar_username: 6ySBQHwAAAAJ
-twitter_username: yupaulk
-orcid_username: 0000-0001-7848-5050
-researchgate_username: Paul-Yu-5
-scopus_username: 57223828864
+#facebook_username: paul.yu.7161
+github_username: yusophfeeroz
+linkedin_username: feeroz-yusoph
+#scholar_username: 6ySBQHwAAAAJ
+twitter_username: frzysp
+#orcid_username: 0000-0001-7848-5050
+#researchgate_username: Paul-Yu-5
+#scopus_username: 57223828864
 
 # Build settings
 markdown: kramdown
