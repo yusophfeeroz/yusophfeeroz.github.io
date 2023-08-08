@@ -34,6 +34,6 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
-		<img src='/assets/paul-yu.jpg' width='200' height='200' align='left' />
+		<img src='/Users/feerozyusoph/Library/Mobile Documents/com~apple~CloudDocs/Profile Photo/FEEROZ YUSOPH.JPG' width='200' height='200' align='left' />
 	</div>
 </div>
